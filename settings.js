@@ -2,7 +2,7 @@
 exports.url = 'https://gma7th.herokuapp.com/';
 
 exports.senderEmail = "yasuhito.suganuma@gmail.com";
-exports.senderName = "Yasuhito Suganuma";
+exports.senderName = "菅沼　泰人";
 
 // set 'exports.listId = null' to add contact to all contacts, but no specific list
 // or a string with the listId to add to a specific list

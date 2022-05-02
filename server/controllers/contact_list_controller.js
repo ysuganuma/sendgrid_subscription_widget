@@ -9,7 +9,7 @@ function prepareConfirmationEmail(reqBody) {
 	const subject = "メールアドレスの確認をお願いします。";
 	const url = formatUrl(Settings.url) + '/success';
 	const link = "<a href='" + url + "'>こちら</a>"
-	const mailText = "メールアドレスのご登録ありがとうございます。" + link + "こちらのリンクをクリックして登録の完了をお願いします。24時間以内に完了をお願いします。 <br> D518　菅沼";
+	const mailText = "メールアドレスのご登録ありがとうございます。" + link + "のリンクをクリックして登録の完了をお願いします。24時間以内に完了をお願いします。 <br> D518　菅沼";
 
 	var emailBody = {
 	  personalizations: [
