@@ -1,5 +1,5 @@
 // Change the url to the domain of your app
-exports.url = 'https://sgsubscriptionwidgeta.herokuapp.com/';
+exports.url = 'https://gma7th.herokuapp.com/';
 
 exports.senderEmail = "yasuhito.suganuma@gmail.com";
 exports.senderName = "Yasuhito Suganuma";
